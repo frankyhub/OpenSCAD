@@ -1,5 +1,5 @@
 # OpenSCAD
 OpenSCAD Beispiele
 
-[Download](https://openscad.org/)
+[Download OpenSCAD](https://openscad.org/)
 
