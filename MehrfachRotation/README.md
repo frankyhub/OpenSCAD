@@ -1,3 +1,3 @@
 ## Mehrfach Rotation
 
-!pic/mfr.png
+![Bild](/pic/mfd.png)
