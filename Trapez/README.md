@@ -1,3 +1,3 @@
 ## Beispiel Trapez
 
-![pic](pic/Trapez.png)
+![pic](/pic/Trapez.png)
