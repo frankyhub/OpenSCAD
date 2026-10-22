@@ -1,3 +1,6 @@
-# Beispiel Polygon              Beispiel Polygon2
+## Beispiel Polygon            
 
-![Bild](/pic/polygon.png) ![Bild](/pic/polygon2.png)
+![Bild](/pic/polygon.png) 
+
+## Beispiel Polygon2
+![Bild](/pic/polygon2.PNG)
