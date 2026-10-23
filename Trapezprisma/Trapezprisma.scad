@@ -1,7 +1,6 @@
 /*
 *******************************************
-Objekt Info: Beispiel Trapezprisma mit
-             Durchbruch
+Objekt Info: Beispiel Trapezprisma mit Durchbruch
 
 *******************************************
 Version: 22.10.2026 khf
@@ -17,13 +16,13 @@ difference() {
     trapezoid(h=30, w1=70, ang=60);
 
 //Durchbruch Lange Seite
-        translate(v = [0, -7.6, -5]) { 
-        rotate([0, 0, 0]) { 
+        translate(v = [0, -7.6, 65]) { 
+        rotate([180, 0, 0]) { 
         linear_extrude(height = 70)
     trapezoid(h=15, w1=30, ang=60);
     }
   }
-
+  
 //Durchbruch kurze Seite
         translate(v = [-35, -7.6, 30]) { 
         rotate([0, 90, 0]) { 
@@ -55,5 +54,8 @@ difference() {
  }
 }
   
+
+
+
 
 
