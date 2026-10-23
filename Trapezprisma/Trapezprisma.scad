@@ -4,9 +4,9 @@ Objekt Info: Beispiel Trapezprisma mit Durchbruch
 
 *******************************************
 Version: 22.10.2026 khf
-//*****************************************/
+*****************************************
 lib: https://github.com/BelfrySCAD/BOSL2/wiki/shapes2d.scad#functionmodule-trapezoid
-//**************   Programm  **************/
+**************   Programm  **************/
 
 include <lib/std.scad>
 
