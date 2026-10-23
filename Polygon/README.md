@@ -2,5 +2,5 @@
 
 ![Bild](/pic/polygon.png) 
 
-## Beispiel Polygon2
+## Beispiel Prisma Polygon
 ![Bild](/pic/Polygon2.png)
