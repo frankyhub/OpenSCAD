@@ -1,6 +1,6 @@
 /*
 *******************************************
-Objekt Info: Bibliothek für SZahnräder, 
+Objekt Info: Bibliothek für Zahnräder, 
              Schnecken und Zahnstangen
 
 *******************************************
