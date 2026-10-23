@@ -1,6 +1,6 @@
 /*
 *******************************************
-Objekt Info: Polygon Beispiel
+Objekt Info: (Prisma) Polygon Beispiel
 
 *******************************************
 Version: 22.10.2026 khf
