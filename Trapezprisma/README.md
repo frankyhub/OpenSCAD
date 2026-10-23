@@ -1,3 +1,3 @@
 ## Trapezprisma mit Durchbruch
 
-![pic](Trapez.png)
+![pic](/pic/Trapez.png)
